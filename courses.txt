@@ -8,3 +8,4 @@ maven
 jenkins
 dockers
 kubernetes
+javahomeclods
