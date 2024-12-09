@@ -7,4 +7,3 @@ ci/cd
 maven
 jenkins
 dockers
-kubernetes
